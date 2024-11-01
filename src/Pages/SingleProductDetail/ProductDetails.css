@@ -1,0 +1,44 @@
+.container .row {
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.container .row .col-6 {
+    display: flex;
+    justify-content: center;
+}
+
+.row .productDetails {
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.productDetails .productDetails-header {
+    background-color: transparent;
+    text-align: left;
+    border: none;
+}
+
+.productDetails-body .productPrice {
+    margin-top: 20px;
+}
+
+.productDetails-body .productQuantity {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 2px;
+}
+
+.productDetails-body .addToCart {
+    display: flex;
+    justify-content: left;
+    padding: 0px;
+}
+
+.productDetails-body .addToCart button{
+    padding: 12px;
+}

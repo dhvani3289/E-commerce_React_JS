@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "5b8f",
+      "email": "p@gmail.com",
+      "username": "prachi",
+      "password": "123@Andfbhsd",
+      "confirmPassword": "123@Andfbhsd"
+    },
+    {
+      "id": "7fa7",
+      "username": "chavi",
+      "email": "c@gmail.com",
+      "password": "ASDF123@",
+      "confirmPassword": "ASDF123@"
+    },
+    {
+      "id": "8dc5",
+      "username": "dhvaannniiii",
+      "email": "d@gmail.com",
+      "password": "AS123@123",
+      "confirmPassword": "AS123@123"
+    },
+    {
+      "id": "3d7c",
+      "username": "khushi",
+      "email": "k@gmail.com",
+      "password": "123@Abc",
+      "confirmPassword": "123@Abc"
+    },
+    {
+      "id": "3c6e",
+      "username": "monika",
+      "email": "m@gmail.com",
+      "password": "Monika@123",
+      "confirmPassword": "Monika@123"
+    }
+  ],
+  "cartData": [
+    {
+      "id": "2a6e",
+      "quantity": "2",
+      "productId": "8",
+      "userId": "8dc5"
+    },
+    {
+      "quantity": 3,
+      "id": "48a3"
+    },
+    {
+      "id": "04e5",
+      "quantity": 2,
+      "productId": "20",
+      "userId": "3c6e"
+    },
+    {
+      "id": "447b",
+      "quantity": "1",
+      "productId": "12",
+      "userId": "3c6e"
+    }
+  ]
+}

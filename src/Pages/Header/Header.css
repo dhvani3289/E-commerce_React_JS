@@ -1,0 +1,70 @@
+a{
+    color: initial;
+    text-decoration: none;
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+.nav-end {
+    margin: 15px;
+    font-size: 25px;
+    display: flex;
+    gap: 20px;
+    color: white;
+    align-items: center;
+}
+
+.nav-end .cartAndWishlist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nav-end span {
+    position: relative;
+}
+
+.nav-end span .badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 11px;
+    top: -3px;
+    left: 14px;
+}
+
+.auth {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.auth span {
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+.auth a,
+.auth button {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+
+.auth button {
+    border: none;
+    background-color: transparent;
+}
+
+.auth a:hover,
+.auth button:hover {
+    color: #c6c6c6;
+
+}

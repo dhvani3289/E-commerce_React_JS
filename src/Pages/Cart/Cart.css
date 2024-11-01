@@ -1,0 +1,35 @@
+.cart_card {
+    flex-direction: row;
+    gap: 10px;
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    background-color: rgba(220, 220, 220, 0.291);
+}
+
+.incDec-btn {
+    border: none;
+    margin: 5px;
+    background-color: gainsboro;
+}
+
+.delete-btn {
+    border: none;
+    color: red;
+}
+
+.totalBill {
+    text-align: center;
+    font-size: 17px;
+    background-color: gainsboro;
+}
+
+.payment {
+    text-align: center;
+}
+
+.payment button {
+    border-radius: 3px;
+    width: 30%;
+    border: 1px dotted black;
+}
